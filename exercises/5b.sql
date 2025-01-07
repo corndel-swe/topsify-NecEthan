@@ -3,4 +3,3 @@
 -- (Hint: use the features table, no need to JOIN)
 SELECT AVG(valence)
 FROM features;
-
